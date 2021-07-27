@@ -1,3 +1,4 @@
 # Web_scrapping_using_python
 
-##### Link For description:https://www.blogger.com/blog/post/edit/preview/7356895239846080814/9072768072527891725
+##### Link For description:https://riya100-ds.blogspot.com/2021/07/web-scrapping-using-python.html
+
